@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/byneur4l/trybe-exercicios.git"
+    "url": "git+https://github.com/reisblucas.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/byneur4l/trybe-exercicios/issues"
+    "url": "https://github.com/reisblucas/issues"
   },
-  "homepage": "https://github.com/byneur4l/trybe-exercicios#readme",
+  "homepage": "https://github.com/reisblucas#readme",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
